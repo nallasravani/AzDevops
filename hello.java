@@ -1,7 +1,7 @@
-class
+class hello
 {
-	public static void main()
+	public static void man()
 }
-{
+ds
 	system.println()
-}	
+ }	
