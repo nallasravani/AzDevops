@@ -11,5 +11,6 @@ class hello
 }
 ds
 >>>>>>> 6f7b2b747e31af9fec2f46cd0b1c3b1b45e19093
-	system.println()
+	system.out.println()
+	cotty
  }	
